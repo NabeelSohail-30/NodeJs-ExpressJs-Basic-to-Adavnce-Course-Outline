@@ -9,51 +9,51 @@ This course is designed to take you from the fundamentals of Node.js and Express
 # Course Outline:
 
 # Module 1: Introduction to Node.js and Express
--What is Node.js?
--Advantages of Node.js
--Introduction to Express
--Setting up the environment
+- What is Node.js?
+- Advantages of Node.js
+- Introduction to Express
+- Setting up the environment
 
 # Module 2: Building Basic Server-Side Applications
--Understanding the Request/Response Cycle
--Creating a basic web server
--Handling GET and POST requests
--Working with templates and views
+- Understanding the Request/Response Cycle
+- Creating a basic web server
+- Handling GET and POST requests
+- Working with templates and views
 
 # Module 3: Advanced Routing and Middleware
--Route handling and URL parameters
--Middleware functions and their use cases
--Error handling and debugging techniques
+- Route handling and URL parameters
+- Middleware functions and their use cases
+- Error handling and debugging techniques
 
 # Module 4: Building RESTful APIs
--Introduction to RESTful APIs
--Building a basic RESTful API
--Handling CRUD operations
--Working with JSON data
+- Introduction to RESTful APIs
+- Building a basic RESTful API
+- Handling CRUD operations
+- Working with JSON data
 
 # Module 5: Database Integration with Express
--Introduction to databases
--Connecting to databases
--Querying databases
--Using an ORM (Object-Relational Mapping) library
+- Introduction to databases
+- Connecting to databases
+- Querying databases
+- Using an ORM (Object-Relational Mapping) library
 
 # Module 6: Authentication and Authorization
--Understanding Authentication and Authorization
--Building a secure login system
--Using Passport.js for authentication
--Implementing role-based access control
+- Understanding Authentication and Authorization
+- Building a secure login system
+- Using Passport.js for authentication
+- Implementing role-based access control
 
 # Module 7: Deployment and Scaling
--Introduction to Deployment
--Deploying an Express application
--Scaling an Express application
--Using a load balancer for scaling
+- Introduction to Deployment
+- Deploying an Express application
+- Scaling an Express application
+- Using a load balancer for scaling
 
 # Module 8: Advanced Concepts
--WebSockets and real-time applications
--Building a Chat Application using Socket.io
--Streaming data with Express
--Testing and Debugging an Express application
+- WebSockets and real-time applications
+- Building a Chat Application using Socket.io
+- Streaming data with Express
+- Testing and Debugging an Express application
 
 # Project Ideas
 
